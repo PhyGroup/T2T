@@ -12,5 +12,6 @@ This repository provides the implementation of T2T. Please refer to our paper fo
 
 We provide pre-extracted feature CSV files covering 20 applications across 5 application types, along with descriptions generated for each file using Qwen-VL-Max.
 
-
 ## Training and Evaluation
+
+We evaluate the performance of our model using four commonly used metrics in captioning—BLEU-4, METEOR, ROUGE-L, and CIDEr. The related tools are provided in utils/coco-caption.
