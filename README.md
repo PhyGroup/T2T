@@ -10,7 +10,7 @@ This repository provides the implementation of T2T. Please refer to our paper fo
 
 ## Datasets:
 
-We provide pre-extracted feature CSV files covering 20 applications across 5 application types, along with descriptions generated for each file using Qwen-VL-Max.
+We provide pre-extracted feature CSV files covering 20 applications across 5 application types, along with descriptions generated for each file using Qwen-VL-Max, resulting in a total of 20,000 samples.
 
 ## Training and Evaluation
 
