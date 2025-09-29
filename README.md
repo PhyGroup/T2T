@@ -14,4 +14,4 @@ We provide pre-extracted feature CSV files covering 20 applications across 5 app
 
 ## Training and Evaluation
 
-We evaluate the performance of our model using four commonly used metrics in captioning—BLEU-4, METEOR, ROUGE-L, and CIDEr. The related tools are provided in utils/coco-caption.
+We evaluate the performance of our model using four commonly used metrics in captioning—BLEU-4, METEOR, ROUGE-L, and CIDEr. The related tools are provided in **utils/coco-caption**.
