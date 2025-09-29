@@ -103,4 +103,5 @@ def collate_fn(batch):
     padded_captions = pad_sequence(captions_list, batch_first=True, padding_value=0)
     app_type_tensors = torch.LongTensor(app_type_ids_list)
     caption_embs_tensor = torch.stack(caption_embs)
+
     return padded_traffic, padded_captions, sample_ids_list, app_type_tensors, caption_embs_tensor
