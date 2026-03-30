@@ -1,13 +1,16 @@
-# Introduction to T2T
+# T2T
 
-This repository contains the implementation of **T2T**.
-For more details, please refer to our paper:
+Source code for **T2T: Captioning Smartphone Activities Using Mobile Traffic**.
 
-**T2T: Captioning Smartphone Activities Using Mobile Traffic**
+*Jiyu Liu, Yong Huang, Yanzhao Lu, Yun Tie, Wanqing Tu*
 
-## Setup
+Accepted by IJCNN2026
 
-### Requirements
+Please refer to our paper for more details.
+
+# Setup
+
+## Requirements
 - Python ≥ 3.9
 - PyTorch ≥ 1.10.0
 - TorchVision ≥ 0.11.1
