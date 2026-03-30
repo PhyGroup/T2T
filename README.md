@@ -32,4 +32,4 @@ Within each device-specific directory, the data is further categorized into five
 
 We adopt four standard metrics for evaluating natural language generation: **BLEU-4 (B@4)**, **METEOR (M)**, **ROUGE-L (R)**, and **CIDEr (C)**.
 
-**Note:** We have provided the standard evaluation code in the `utils/coco-caption` directory, which is identical to the source code from the [tylin/coco-caption](https://github.com/tylin/coco-caption).
+**Note:** We have provided the standard evaluation code in the `utils/coco_caption` directory, which is identical to the source code from the [tylin/coco-caption](https://github.com/tylin/coco-caption).
