@@ -4,7 +4,7 @@ This repository provides the implementation of **T2T: Captioning Smartphone Acti
 
 *Jiyu Liu, Yong Huang, Yanzhao Lu, Yun Tie, Wanqing Tu*
 
-Accepted by IJCNN2026
+Accepted by **IJCNN2026**
 
 Please refer to our paper for more details.
 
